@@ -5,4 +5,4 @@ This is the repository for IEEE BIBM 2022 conference workshop paper titled "_Dee
 | [Paper Link](https://haowenguan.github.io/docs/DeepTracer-Denoising.pdf) | [Video Link](https://youtu.be/Sl0YHuT0R5Q) | [DeepTracer Website](https://deeptracer.uw.edu/home) |
 | ------------------------------------------------------------------------ | ------------------------------------------ | ---------------------------------------------------- |
 
-**Feel free to open an issue and drop question here.**
+## Feel free to open an issue and drop question here
